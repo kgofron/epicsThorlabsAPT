@@ -1,0 +1,4 @@
+NAME=ThorlabAPT
+USER=softioc
+PORT=4510
+HOST=xf11bm-ioc1
